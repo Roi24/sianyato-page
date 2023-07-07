@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Open+Sans:ital,wght@1,500&display=swap');
-
+<<<<<<< HEAD
 body {
     background-color: #ffffff;
     font-family: "Noto Sans Japanese", sans-serif;
@@ -10,8 +10,24 @@ h1 {
     color: #2f9BCA;
     margin-left: 20px;
 }
+=======
 
+body {
+    background-color: #FCECC1;
+    font-family: "Noto Sans Japanese", sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    color: #f28888;
+    margin-left:20px
+}
+>>>>>>> annyeong-with-images
 p {
     color: #444444;
     margin-left: 20px;
 }
+<<<<<<< HEAD 
+
+=======
+>>>>>>> annyeong-with-images
